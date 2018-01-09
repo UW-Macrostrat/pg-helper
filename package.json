@@ -1,0 +1,24 @@
+{
+  "name": "@macrostrat/pg-helper",
+  "version": "1.0.0",
+  "description": "Utilities and boilerplate for working with Postgres",
+  "main": "index.js",
+  "dependencies": {
+    "JSONStream": "^1.3.2",
+    "pg": "^7.4.1",
+    "pg-query-stream": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pg",
+    "postgres",
+    "postgresql",
+    "utility"
+  ],
+  "author": "John J Czaplewski",
+  "license": "MIT"
+}
